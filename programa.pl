@@ -3,9 +3,13 @@
  SISTEMA DE SIMULACAO DE EVOLUCAO EM AMBIENTES VIRTUAIS
  Linguagens e paradigmas de programacao - Trabalho1 - Prolog
  Autores: 
+ Mikhael Lazarev Nogueira Barbosa - NUSP: 15480495
+ Francisco Eduardo Fontenele       - NUSP: 15452569
+ Daniel Natan dos Santos Brito     - NUSP: 15446908
  Tema 14: Simulacao de Evolucao em Ambientes Virtuais
  ======================================================
 */
+
 
 /*
 Ambiente: ambiente(Tamanho, UltimoIdRecurso, UltimoIdOrganismo, Rodada)
